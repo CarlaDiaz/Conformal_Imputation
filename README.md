@@ -5,21 +5,21 @@ This repository contains the script *glucodensities_missing.R* with functions fo
 * *functions*, with some auxiliar functions used in the analyses included in the html files. 
 
 ## Personalized Imputation in metric spaces via conformal prediction: Applications in Predicting Diabetes Development with Continuous Glucose Monitoring Information
-Marcos Matabuena<sup>1,2\*</sup>, Carla Díaz-Louzao^3, Rahul Gosal^4, Francisco Gude^{5,6,7}
+Marcos Matabuena<sup>1,2</sup>\*, Carla Díaz-Louzao<sup>3</sup>, Rahul Gosal<sup>4</sup>, Francisco Gude<sup>5,6,7</sup>
 
-^1 Health Institute of Santiago de Compostela, Spain
+<sup>1</sup> Health Institute of Santiago de Compostela, Spain
 
-^2 Department of Biostatistics, Harvard University, Boston, MA 02115, USA
+<sup>2</sup> Department of Biostatistics, Harvard University, Boston, MA 02115, USA
 
-^3 Department of Mathematics, University of A Coruña, Spain
+<sup>3</sup> Department of Mathematics, University of A Coruña, Spain
 
-^4 Department of Epidemiology and Biostatistics, University of South Carolina, USA
+<sup>4</sup> Department of Epidemiology and Biostatistics, University of South Carolina, USA
 
-^5 ISCIII Support Platforms for Clinical Research, Health Institute of Santiago de Compostela (IDIS), Spain
+<sup>5</sup> ISCIII Support Platforms for Clinical Research, Health Institute of Santiago de Compostela (IDIS), Spain
 
-^6 Concepción Arenal Primary Care Center, Santiago de Compostela, Spain
+<sup>6</sup> Concepción Arenal Primary Care Center, Santiago de Compostela, Spain
 
-^7 Department of Psychiatry, Radiology, Public Health, Nursing and Medicine, University of Santiago de Compostela, Spain
+<sup>7</sup> Department of Psychiatry, Radiology, Public Health, Nursing and Medicine, University of Santiago de Compostela, Spain
 
 
 \* Corresponding author: mmatabuena@hsph.harvard.edu
